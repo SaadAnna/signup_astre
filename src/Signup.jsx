@@ -106,7 +106,7 @@ export default function Signup() {
             </span>
           </div>
         </div>
-        <div className="flex flex-col text-start gap-5 sm:w-10/12 w-11/12 lg:w-fit h-fit p-5  rounded-lg  bg-[#282828d6]">
+        <div className="flex flex-col text-start gap-5 sm:w-10/12 w-full lg:w-fit h-fit p-5  rounded-lg  bg-[#282828d6]">
           <h1 className="font-text text-white font-semibold text-2xl ">
             Sign up Now.
           </h1>
